@@ -3,5 +3,5 @@
 
 Simple one line functions for safely setting and retrieving data from XML documents.
 
-# License
+## License
 This project is licensed under the Apache 2.0 software license.
